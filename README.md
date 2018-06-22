@@ -10,13 +10,18 @@
 
 ## GETTING STARTED:
   * To compile the project on your own machine follow this steps:
+  
   1. Open DeepLearning-PM10.py
+  
   2. Just run Python.
+  
   3. You can change file between seouldata134567.svc and changechina4567seoul7.svc
   ex) seouldata134567.svc can predict 2017 data by Learning 2013~2016
+  
   4. Using this, you can guess China's air condition influence on Korea
   ex) Compare China 14~17 with predict Seoul 17 to china 14~17 with predict Seoul 17
   (You have to make 2days term, that is moving time of PM10 from Beijing China to Seoul Korea)
+  
 
 ## SOFTWARE REQUIREMENTS FOR COMPILING:
   * OS: Windows 7/8/10
