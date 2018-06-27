@@ -7,7 +7,6 @@
    * Korea PM10 Data was from http://cleanair.seoul.go.kr/main.htm
    * China PM2.5 Data was from http://www.stateair.net/web/historical/1/1.html
   
-![q5](./img/q5.PNG)
 ## GETTING STARTED:
   * To compile the project on your own machine follow this steps:
   
@@ -22,6 +21,7 @@
   ex) Compare China 14~17 with predict Seoul 17 to china 14~17 with predict Seoul 17
   (You have to make 2days term, that is moving time of PM10 from Beijing China to Seoul Korea)
   
+  ![q5](./img/ㅂ29 4개년치 입력 서울데터2.PNG)
 
 ## SOFTWARE REQUIREMENTS FOR COMPILING:
   * OS: Windows 7/8/10
