@@ -21,7 +21,7 @@
   ex) Compare China 14~17 with predict Seoul 17 to china 14~17 with predict Seoul 17
   (You have to make 2days term, that is moving time of PM10 from Beijing China to Seoul Korea)
   
-  ![q5](./img/ㅂ29 4개년치 입력 서울데터2.PNG)
+  ![q5](./img/q1.PNG)
 
 ## SOFTWARE REQUIREMENTS FOR COMPILING:
   * OS: Windows 7/8/10
